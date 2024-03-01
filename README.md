@@ -19,7 +19,7 @@ In the project, we will extract real-time data from [British Airway review websi
 * **DA Team:** Conducts metrics exploration, documentation, discovers business insights, and provides client-facing recommendations.
   * [Vy Nie](https://www.linkedin.com/in/vy-nie-712731227/): Business Administration at FTU Vietnam
   * Minh Ngo: Business Administration at FTU Vietnam
-  * Ahri Nguyen: Business Administration at FTU Vietnam
+  * [Ari Nguyen](https://www.linkedin.com/in/aringuyen26): Business Administration at FTU Vietnam
 
 * **BI Team:** Builds dashboards using Power BI to generate insights and recommendations.
   * [Quan Tran](https://www.linkedin.com/in/hquantran/): Economics & Business Analytics at USF
